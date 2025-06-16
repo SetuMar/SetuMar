@@ -1,4 +1,4 @@
-# About Me
+# About
 - Honours Computer Science student @ UWO
 - Currently learning Front-End and Back-End development
 - Software Development Intern @ CGI Inc.
