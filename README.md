@@ -1,7 +1,7 @@
 # About
 - Honours Computer Science student @ UWO
 - Currently learning Front-End and Back-End development
-- Software Development Intern @ CGI Inc.
+- Former Software Development Intern @ CGI Inc.
 
 # Contact: 
 - Email: smarath2@uwo.ca
