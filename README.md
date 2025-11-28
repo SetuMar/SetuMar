@@ -1,5 +1,5 @@
 # About
-- Honours Computer Science student @ UWO
+- Honours Computer Science Student @ UWO
 - Former Software Development Intern @ CGI Inc.
 
 # Contact: 
