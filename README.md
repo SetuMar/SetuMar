@@ -1,6 +1,5 @@
 # About
-- Honours Computer Science Student @ UWO
-- Former Software Development Intern @ CGI Inc.
+- Honours Computer Science Student & Machine Learning Researcher @ UWO
 
 # Contact: 
 - Email: smarath2@uwo.ca
