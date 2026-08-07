@@ -1,5 +1,6 @@
 # About
-- Honours Computer Science Student & Machine Learning Researcher @ UWO
+- Computer Science and Data Science Student @ UWO
+- Machine Learning Research @ UWO
 
 # Contact: 
 - Email: smarath2@uwo.ca
